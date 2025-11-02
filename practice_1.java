@@ -10,4 +10,7 @@ System.out.println("this is main branch");
 System.out.println("this is to main merge ");
 System.out.println("this is to main abort");
 }
+void display(){
+System.out.println("i am from display");
+}
 }
